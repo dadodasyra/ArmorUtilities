@@ -1,0 +1,6 @@
+name: ArmorUtilities
+main: dadodasyra\armorutilities\ArmorUtilities
+version: 1.0.0
+api: 3.0.0
+author: dadodasyra
+description: Plugin to set durability and effect on armor
