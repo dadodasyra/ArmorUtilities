@@ -1,0 +1,20 @@
+armor_effect:
+  305:
+    effect1:
+      name: night_vision
+      duration: 99999999999
+      amplifier: 1
+      visible: false
+    effect2:
+      name: health_boost
+      duration: 9999999999
+      amplifier: 1
+      visible: false
+    effect3:
+      name: speed
+      duration: 999999999
+      amplifier: 1
+      visible: false
+
+#dont touch
+version: 1.0
